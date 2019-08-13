@@ -1,0 +1,19 @@
+{
+  "name": "landing-veinte",
+  "version": "1.0.0",
+  "description": "This is the landing page code for Veinte, a platform for a currencies exchange. HTML and JQuery were used.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncasanovas/landing-veinte.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ncasanovas/landing-veinte/issues"
+  },
+  "homepage": "https://github.com/ncasanovas/landing-veinte#readme"
+}
